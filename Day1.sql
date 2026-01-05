@@ -16,7 +16,7 @@ LIMIT 10
 
 
 
--- Day 1 :- challenge 
+-- Day 1 :- challenge :- List all unique hospital services available in the hospital.
 SELECT DISTINCT service 
 FROM patients
 
